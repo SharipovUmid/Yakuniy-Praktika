@@ -1,0 +1,13 @@
+.form-control{
+    border: 1px solid #fbc100;
+}
+.form-control:focus{
+    color: #495057;
+    background-color: #fff;
+    border-color: #fbc100;
+    outline: 0;
+    box-shadow: 0 0 0 0.2rem rgba(251, 193, 0, 0.25);
+}
+.bg-warning{
+    background-color: #fbc100;
+}
